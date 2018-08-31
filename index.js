@@ -5,5 +5,6 @@ function upperCaseCustomerName(){
   let answer = customerName.toUpperCase();
   return answer;
 }
-
-
+// function setBestCustomer(){
+//  return `not ${customerName}`
+//};
