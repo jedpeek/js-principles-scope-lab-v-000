@@ -6,6 +6,4 @@ function upperCaseCustomerName(){
   return answer;
 }
 
-function setBestCustomer(){
-  return `not ${customerName}`
-};
+
