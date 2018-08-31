@@ -13,5 +13,5 @@ function upperCaseCustomerName(){
   }
 
   function changeLeastFavoriteCustomer(){
-    var customerName = bestCustomer
+    var customerName = 'bob'
   }
