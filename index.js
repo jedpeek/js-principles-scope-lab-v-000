@@ -3,8 +3,8 @@ customerName = 'bob';
 
 function upperCaseCustomerName(){
   let answer = customerName.toUpperCase()
-  return answer
-};
+  return answer;
+}
 
 function setBestCustomer(){
   return `not ${customerName}`
